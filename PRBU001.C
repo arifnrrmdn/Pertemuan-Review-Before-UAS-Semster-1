@@ -5,6 +5,7 @@ void cetak();
 int x;
 int main()
 {
+    system("cls");
     cetak();    
     getch();
 }
